@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Lucas-Amaral-Santos/portfolio/static/css/main.0d184bae.css",
+    "main.js": "/Lucas-Amaral-Santos/portfolio/static/js/main.5b75c7dd.js",
+    "index.html": "/Lucas-Amaral-Santos/portfolio/index.html",
+    "main.0d184bae.css.map": "/Lucas-Amaral-Santos/portfolio/static/css/main.0d184bae.css.map",
+    "main.5b75c7dd.js.map": "/Lucas-Amaral-Santos/portfolio/static/js/main.5b75c7dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d184bae.css",
+    "static/js/main.5b75c7dd.js"
+  ]
+}
