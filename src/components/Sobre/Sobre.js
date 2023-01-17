@@ -7,7 +7,7 @@ class Sobre extends React.Component {
     render () {
         return (
             <div id="sobre" className={styles.whiteStyle}>
-                <h1>Sobre</h1>
+                <h1>Sobre mim</h1>
             </div>
         )};
 }

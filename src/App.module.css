@@ -1,15 +1,20 @@
+
 .whiteStyle {
+  min-height: 700px;
+  padding: 20px 300px;
+  display: flex;
+  justify-content: center;
   background-color: white;
   color: black;
-  height: 700px;
-  padding: 20px 300px;
 }
 
 .blackStyle {
+  min-height: 700px;
+  padding: 20px 300px;
+  display: flex;
+  justify-content: center;
   background-color: black;
   color: white;
-  height: 700px;
-  padding: 20px 300px;
 }
 
 html {
