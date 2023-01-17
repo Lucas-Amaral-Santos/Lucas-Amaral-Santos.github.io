@@ -1,0 +1,17 @@
+.whiteStyle {
+  background-color: white;
+  color: black;
+  height: 700px;
+  padding: 20px 300px;
+}
+
+.blackStyle {
+  background-color: black;
+  color: white;
+  height: 700px;
+  padding: 20px 300px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
